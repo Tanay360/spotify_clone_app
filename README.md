@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+> Please delete line 62 from node_modules\material-ui-audio-player\dist\components\AudioPlayer.js
+
 ## Getting Started
 
 First, run the development server:
